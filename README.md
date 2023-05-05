@@ -18,4 +18,4 @@ To stop the music, simply type the command `!stop` in the text channel.
 
 ## Contributing
 
-Contributions to Discord Music Bot are always welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request.
+Contributions to Discord Music Bot are always welcome! If you have any ideas or suggestions, feel free to open an issue or submit a pull request. 
