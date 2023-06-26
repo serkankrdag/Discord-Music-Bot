@@ -1,4 +1,4 @@
-# Discord Music Bot
+# Discord Music Bot 
 
 Discord Music Bot is a simple Discord bot created using the Python programming language. The bot allows users to play music in Discord servers and can play music in voice chat channels using a custom command.
 
